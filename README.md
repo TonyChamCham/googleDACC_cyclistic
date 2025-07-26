@@ -70,7 +70,7 @@ Leveraging the established profiles of both casual riders and annual members, I 
 
 For a detailed analysis, complete visualizations, and conclusions, please refer to the presentation report in this repository:
 
-<h4 align="center"><a href="https://github.com/TonyChamCham/googleDACC_cyclistic/blob/main/Cyclistic%20Transforming%20Casual%20Users%20into%20Subscribers_lowres.pdf">Cyclistic Transforming Casual Users into Subscribers_lowres.pdf</a></h4>
+<h4 align="center"><a href="https://github.com/TonyChamCham/googleDACC_cyclistic/blob/main/Cyclistic%20Transforming%20Casual%20Users%20into%20Subscribers_lowres.pdf?raw=true">Cyclistic Transforming Casual Users into Subscribers_lowres.pdf</a></h4>
 
 ## Author
 
