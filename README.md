@@ -74,4 +74,4 @@ For a detailed analysis, complete visualizations, and conclusions, please refer 
 
 ## Author
 
-#### [Antony Champane](antony.champane@outlook.fr)
+#### [Antony Champane](mailto:antony.champane@outlook.fr?subject=About%20Google%20DACC%20Cyclistic%20Project)
